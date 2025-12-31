@@ -3,7 +3,7 @@
 WorldAtlas is a modern React web application that allows users to explore countries around the world with detailed information such as population, region, capital, flags, and more. The app provides a clean UI and smooth user experience for learning about global geography.
 
 ---
-
+## Live : https://world-atlas-piaw.vercel.app
 ## 🚀 Features
 
 * 🌐 Browse all countries of the world
